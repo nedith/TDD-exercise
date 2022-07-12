@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedith/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedith/testing-practice/issues"
+  },
+  "homepage": "https://github.com/nedith/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
